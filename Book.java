@@ -1,3 +1,4 @@
+//William Han, Josh Zeng
 public class Book {
   private int rating;
   private String title;
